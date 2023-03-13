@@ -2,17 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on doofer</title>
-    <link>/articles/</link>
+    <link>https://www.doofer.co/articles/</link>
     <description>Recent content in Articles on doofer</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Surprise Surprise</title>
-      <link>/articles/article/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/article/</guid>
-      <description>Thank you for your support! Hello. If you like this template, I&amp;rsquo;d be happy to get a coffee donation :)</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.doofer.co/articles/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
