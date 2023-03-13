@@ -58,8 +58,10 @@ params:
     - name: buymeacoffee
       url: 'https://ko-fi.com/patrycjusz'
     - name: github
+      url: 'https://github.com/luatic'
+    - name: twitter
       url:
-        'https://github.com/luatic'
+        'https://twitter.com/dooferCO'
         #- name: linkedin
         #url: 'https://www.linkedin.com/in/heycharlola/'
 
