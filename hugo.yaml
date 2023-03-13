@@ -3,7 +3,7 @@ baseURL: https://www.doofer.co
 title: doofer
 publishDir: docs
 paginate: 5
-theme: charlolamode
+theme: iota
 
 menu:
   main:
