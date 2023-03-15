@@ -46,7 +46,7 @@ params:
        I am a full stack web developer 
        a bakcend lover ツ.
 
-    imageUrl: "images/profile.png"
+    imageUrl: "/images/profile.png"
     imageTitle: image
     # imageWidth: 120
     # imageHeight: 120
@@ -76,7 +76,7 @@ params:
   # change favicon in images folder (icon for web tab)
   assets:
     favicon:
-      "images/favicon.ico"
+      "/images/favicon.ico"
       # favicon16x16: '/images/favicon-16x16.png'
       #favicon32x32: '/images/favicon-32x32.png'
       #apple_touch_icon: '/images/apple-touch-icon.png'
