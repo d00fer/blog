@@ -2,8 +2,9 @@ googleAnalytics: UA-168698271-1
 baseURL: https://www.doofer.co
 title: doofer
 publishDir: docs
-paginate: 5
-theme: iota
+paginate:
+  5
+  #theme: iota
 
 menu:
   main:
@@ -46,22 +47,22 @@ params:
        I am a full stack web developer 
        a bakcend lover ツ.
 
-    imageUrl: "/images/profile.png"
+    imageUrl: '/images/profile.png'
     imageTitle: image
     # imageWidth: 120
     # imageHeight: 120
-    buttons:
+    # buttons:
   mainSections:
     - articles
 
   socialIcons:
     - name: buymeacoffee
-      url: "https://ko-fi.com/patrycjusz"
+      url: 'https://ko-fi.com/patrycjusz'
     - name: github
-      url: "https://github.com/luatic"
+      url: 'https://github.com/luatic'
     - name: twitter
       url:
-        "https://twitter.com/dooferCO"
+        'https://twitter.com/dooferCO'
         #- name: linkedin
         #url: 'https://www.linkedin.com/in/heycharlola/'
 
@@ -76,7 +77,7 @@ params:
   # change favicon in images folder (icon for web tab)
   assets:
     favicon:
-      "/images/favicon.ico"
+      '/images/favicon.ico'
       # favicon16x16: '/images/favicon-16x16.png'
       #favicon32x32: '/images/favicon-32x32.png'
       #apple_touch_icon: '/images/apple-touch-icon.png'
