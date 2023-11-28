@@ -4,6 +4,8 @@
     <title>Articles on doofer</title>
     <link>https://www.doofer.co/articles/</link>
     <description>Recent content in Articles on doofer</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.doofer.co/articles/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://www.doofer.co/articles/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
