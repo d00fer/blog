@@ -1,4 +1,4 @@
-googleAnalytics: UA-168698271-1
+googleAnalytics: G-VW14C7P03V
 baseURL: https://www.doofer.co
 title: doofer
 publishDir: docs
@@ -10,7 +10,8 @@ menu:
   main:
     - name: Contact
       url: /contact/
-      weight: 30
+      weight:
+        30
         #    - name: Articles
         #url: /articles/
         #weight: 20
